@@ -1,0 +1,8 @@
+Names<-c("Anna","Shumi","Conor","Julia","Qassim")
+Age<-c(38,26,22,45,33)
+Sex<-c("F","F","M","F","M")
+Role<-c("Supervisor","Administrator","Accountant","Secretary","Manager")
+Years in Role<-c(8,8,5,21,4)
+Years<-c(8,8,5,21,4)
+df<-data.frame(Names,Age,Sex,Role,Years)
+print(df)

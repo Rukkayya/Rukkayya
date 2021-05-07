@@ -1,0 +1,1 @@
+select EnrolmentNo,trained_by from employee_trainees where EnrolmentNo = 5;
